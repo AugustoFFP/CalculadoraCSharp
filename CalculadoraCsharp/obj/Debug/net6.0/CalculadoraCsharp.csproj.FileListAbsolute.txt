@@ -1,0 +1,15 @@
+C:\Users\augus\Desktop\CalculadoraCSharp\CalculadoraCsharp\CalculadoraCsharp\bin\Debug\net6.0\CalculadoraCsharp.exe
+C:\Users\augus\Desktop\CalculadoraCSharp\CalculadoraCsharp\CalculadoraCsharp\bin\Debug\net6.0\CalculadoraCsharp.deps.json
+C:\Users\augus\Desktop\CalculadoraCSharp\CalculadoraCsharp\CalculadoraCsharp\bin\Debug\net6.0\CalculadoraCsharp.runtimeconfig.json
+C:\Users\augus\Desktop\CalculadoraCSharp\CalculadoraCsharp\CalculadoraCsharp\bin\Debug\net6.0\CalculadoraCsharp.dll
+C:\Users\augus\Desktop\CalculadoraCSharp\CalculadoraCsharp\CalculadoraCsharp\bin\Debug\net6.0\CalculadoraCsharp.pdb
+C:\Users\augus\Desktop\CalculadoraCSharp\CalculadoraCsharp\CalculadoraCsharp\obj\Debug\net6.0\CalculadoraCsharp.csproj.AssemblyReference.cache
+C:\Users\augus\Desktop\CalculadoraCSharp\CalculadoraCsharp\CalculadoraCsharp\obj\Debug\net6.0\CalculadoraCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\augus\Desktop\CalculadoraCSharp\CalculadoraCsharp\CalculadoraCsharp\obj\Debug\net6.0\CalculadoraCsharp.AssemblyInfoInputs.cache
+C:\Users\augus\Desktop\CalculadoraCSharp\CalculadoraCsharp\CalculadoraCsharp\obj\Debug\net6.0\CalculadoraCsharp.AssemblyInfo.cs
+C:\Users\augus\Desktop\CalculadoraCSharp\CalculadoraCsharp\CalculadoraCsharp\obj\Debug\net6.0\CalculadoraCsharp.csproj.CoreCompileInputs.cache
+C:\Users\augus\Desktop\CalculadoraCSharp\CalculadoraCsharp\CalculadoraCsharp\obj\Debug\net6.0\CalculadoraCsharp.dll
+C:\Users\augus\Desktop\CalculadoraCSharp\CalculadoraCsharp\CalculadoraCsharp\obj\Debug\net6.0\refint\CalculadoraCsharp.dll
+C:\Users\augus\Desktop\CalculadoraCSharp\CalculadoraCsharp\CalculadoraCsharp\obj\Debug\net6.0\CalculadoraCsharp.pdb
+C:\Users\augus\Desktop\CalculadoraCSharp\CalculadoraCsharp\CalculadoraCsharp\obj\Debug\net6.0\CalculadoraCsharp.genruntimeconfig.cache
+C:\Users\augus\Desktop\CalculadoraCSharp\CalculadoraCsharp\CalculadoraCsharp\obj\Debug\net6.0\ref\CalculadoraCsharp.dll
